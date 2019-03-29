@@ -10,7 +10,7 @@ Assingment 1:
 
 After setting up SSH keys, run the following
 
-	git@github.com:jawaddeo/sd.git
+	git@github.com:sadi1001/Machines-Learning.git
 
 ### Basic git commands
 
